@@ -30,4 +30,36 @@ th {
 	text-align: center;
 	color: #ffffff;
 	background-color: #003366;
+}.button {
+  background-color: black; /* Green */
+  border: none;
+  color: skyblue;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
+
+.button1 {
+  border-radius: 8px;
+}
+
+.button2 {
+  border-radius: 30%;
+}
+
+.red { 
+   background-color: yellow;
+}
+.Random{ background-color: yellow;
+    
+}
+.IDK{background-color: aqua}
+
+#morecontent {
+  background-color: yellow;
+}
+.content{color: indigo}
